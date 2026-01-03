@@ -89,7 +89,7 @@ The program runs in a loop until the user chooses to exit.
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/MoOps-dev/ITI-Day-1
 
 # Navigate to project directory
 cd ITI_Day_1
