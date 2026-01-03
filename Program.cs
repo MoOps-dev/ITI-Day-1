@@ -89,7 +89,7 @@ class Program
             Console.WriteLine($"Decimal Value: {DecimalValue}\n");
         }
 
-        /* 4. Convert.toInt32::used to convert decimals to binary*/
+        /* 4. Convert.toString::used to convert decimals to binary*/
         static void DecimalToBinary()
         {
             Console.WriteLine("Enter a decimal to convert to binary: ");
