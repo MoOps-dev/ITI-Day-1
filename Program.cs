@@ -21,8 +21,8 @@ class Program
         ***************************************************
         ** 1. Get ASCII/UNICODE Value.
         ** 2. Capture Pressed Key.
-        ** 3. Convert a Binary into Decimal.
-        ** 4. Convert a Decimal into Binary.
+        ** 3. Convert a Decimal into Binary.
+        ** 4. Convert a Binary into Decimal.
         ** 5. C# Operators Quiz.
         ** Or press ANY other key to exit the program.
         ***************************************************
@@ -79,7 +79,7 @@ class Program
             Console.WriteLine($"Pressed key character: {InputKey.KeyChar}\n");
         }
 
-        /* 3. Convert.toInt32::used to convert binary to decimal*/
+        /* 3. Convert.toInt32::used to convert decimals to binary*/
         static void BinaryToDecimal()
         {
             Console.WriteLine("Enter a binary to convert to decimal: ");
