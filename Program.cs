@@ -21,8 +21,8 @@ class Program
         ***************************************************
         ** 1. Get ASCII/UNICODE Value.
         ** 2. Capture Pressed Key.
-        ** 3. Convert a Decimal into Binary.
-        ** 4. Convert a Binary into Decimal.
+        ** 3. Convert a Binary to Decimal.
+        ** 4. Convert a Decimal to Binary.
         ** 5. C# Operators Quiz.
         ** Or press ANY other key to exit the program.
         ***************************************************
